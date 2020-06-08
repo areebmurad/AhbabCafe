@@ -133,3 +133,12 @@ img.img7,.img1{
     width: 20% !important;
   }
 }
+
+
+.abimg{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-bottom: 20px ;
+  padding-top: 20px ;
+}
